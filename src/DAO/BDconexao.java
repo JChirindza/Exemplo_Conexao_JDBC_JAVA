@@ -1,6 +1,4 @@
-/*
- Esta classe é responsavel pela comunicação do Aplicativo com a base de dados MySQL;
- */
+
 package DAO;
 
 import java.io.Serializable;
@@ -9,8 +7,11 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 /**
- *
- * @author Manhiça
+ * @author JChirindza
+ */
+
+/**
+ * Esta classe é responsavel pela comunicação do Aplicativo com a base de dados MySQL;
  */
 public class BDconexao implements Serializable {
 

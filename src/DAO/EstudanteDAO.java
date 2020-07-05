@@ -17,8 +17,11 @@ import java.util.logging.Logger;
 import negocio.Estudante;
 
 /**
- *
- * @author Manhica
+ * @author JChirindza
+ */
+
+/***
+ * Classe com metodos de acesso a dados do Estudade CRUD
  */
 public class EstudanteDAO {
     private Connection conexao;
@@ -73,7 +76,7 @@ public class EstudanteDAO {
     
     public List<Estudante> todos(){
         try {
-            String sql = "SELECT * from estudante";
+            String sql = "SELECT * FROM estudante";
             PreparedStatement ps = conexao.prepareStatement(sql);
             ResultSet rs = ps.executeQuery();
             List<Estudante> lista = new ArrayList<>();
