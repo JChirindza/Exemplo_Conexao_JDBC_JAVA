@@ -1,6 +1,5 @@
-#Exemplo de Conexao Com base dados (BD) Mysql com JAVA
+# Exemplo de Conexao a base dados (BD) Mysql com JAVA
 	_____________________
-## Para Iniciar
 
 ## Ferramentas Usadas:
 	
@@ -23,13 +22,11 @@
 
 - Conexao com base dados:
 	
-	* Enconte o ficheiro com extencao JAR para a conexao com a base de dados Mysql.
+	* Encontre o ficheiro com extencao JAR para a conexao com a base de dados Mysql.
 
 	* De seguida adicione-o as Bibliotecas (Libraries) do projecto;
 	_____________________
 
-+ Desenvolvedor: 
+## Desenvolvedor: 
 
-	[2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding) [Joao Chirindza] (https://www.facebook.com/john.chirindza/)
-
-	[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding): [@Johnchirindza] (https://twitter.com/Johnchirindza)
+Joao Chirindza -> MailTo: johnchirindza@gmail.com | Web portfolio: (https://jchirindza.vercel.app/) 
